@@ -1,5 +1,5 @@
 # 📞 Java Console Phone Book Application
-/
+
 This is a basic console-based application built with **Java** for managing a list of contacts (a phone book). It serves as a great introductory project to demonstrate fundamental Java concepts like class structure, data manipulation (using collections like `ArrayList` or similar), and menu-driven input handling.
 
 ## ✨ Features
